@@ -7,7 +7,7 @@ Understanding customer purchasing behavior helps businesses identifyhigh-value c
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](images/dashboard_image.png]
+![Customer Behavior Dashboard](images/dashboard_image.png)
 
 ---
 
